@@ -1,0 +1,34 @@
+Report created: 
+	2022-09-21	17:06:36
+
+Project name: tick-tock-next-block-INSTA.aep
+
+Source files collected to: 
+	D:\Mijn Bestanden\Freelance\Werkmap\#Vrije tijd projecten\Bitcoin\tick-tock-next-block-folder
+
+Source files collected: All
+
+Collected comps:  
+	Tick-Tock-1200x675
+	TickTockNextBlock-Instagram
+	Tick-Tock-1080x1080
+	
+Number of collected files:  1
+
+Size of collected files:  58 KB
+
+Collected source files: 
+	D:\Mijn Bestanden\Freelance\Werkmap\#Vrije tijd projecten\Bitcoin\BTC LOGO\BTC_Logo-original.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Radial Wipe
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Viga”, Font style: “Regular”
+
